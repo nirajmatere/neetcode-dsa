@@ -1,0 +1,3 @@
+Based on the provided context snippets, there is no information regarding project setup, installation commands, dependencies, or environment variables. The snippets only contain Python solution implementations for algorithmic problems (such as `uniquePathsWithObstacles`, `minPathSum`, `canPartition`, and `buildTree`).
+
+Because no setup or installation instructions are present in the provided context, a `QUICKSTART.md` cannot be generated without making assumptions or hallucinating details.
